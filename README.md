@@ -87,6 +87,7 @@ void loop(){
 
 
 ### RESULTS
+Thus the distance value is measured using ultrasonic sensor
 
 
 
