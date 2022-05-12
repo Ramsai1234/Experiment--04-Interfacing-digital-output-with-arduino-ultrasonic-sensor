@@ -55,6 +55,7 @@ speed of sound in the air at 20ºC (68ºF) = 343m/s
 
 
 ### PROGRAM 
+```
 ~~~
 #developed by:P.Ramsai
 #reference no:212221240041
@@ -78,6 +79,7 @@ void loop(){
   Serial.print(distance);
   Serial.println(" cm");
 }
+```
 
 ### Output
 ![github logo](sensor.png)
